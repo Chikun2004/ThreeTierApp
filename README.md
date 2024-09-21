@@ -1,4 +1,4 @@
-# #ThreeTierApp
+# ThreeTierApp
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
@@ -123,9 +123,6 @@ eksctl delete cluster --name three-tier-cluster --region us-west-2
 - Deploy the application, adding your creative enhancements.
 - Ensure your code adheres to the project's style and contribution guidelines.
 - Submit a Pull Request with a detailed description of your changes.
-
-## Rewards
-- Successful PR merges will be eligible for exciting prizes!
 
 ## Support
 For any queries or issues, please open an issue in the repository.
